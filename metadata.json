@@ -1,0 +1,5 @@
+{
+  "name": "Security Situational Awareness Dashboards",
+  "description": "A dual-screen situational awareness platform featuring Network Security and Data Security dashboards with real-time visualizations and threat monitoring.",
+  "requestFramePermissions": []
+}
